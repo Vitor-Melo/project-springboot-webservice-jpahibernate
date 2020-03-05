@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\temp-sts\project-webservice-jpa\.metadata\.plugins\org.eclipse.jdt.core
