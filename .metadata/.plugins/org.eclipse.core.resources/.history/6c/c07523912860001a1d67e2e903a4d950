@@ -1,0 +1,5 @@
+package com.example.projectwebservicejpa.config;
+
+public class TestConfig {
+
+}
