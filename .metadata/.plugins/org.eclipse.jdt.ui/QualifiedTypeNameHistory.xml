@@ -22,4 +22,6 @@
     <fullyQualifiedTypeName name="com.example.projectwebservicejpa.entities.Order"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.databind.jsonFormatVisitors.JsonFormatTypes"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat.Shape"/>
+    <fullyQualifiedTypeName name="com.example.projectwebservicejpa.entities.enums.OrderStatus"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
 </qualifiedTypeNameHistroy>
